@@ -44,17 +44,156 @@ body{
     padding-top: 618px;
     border: 8px;
     top: 17.73%;
-    left: 57%;
+    right: 9.31%;
 
     outline: #ffffff solid 60px ;
     border-color: #ffffff;
 }
 
+#box4{
+    display: block;
+    position: absolute;
+    box-sizing: border-box;
+    flex-shrink: 0;
+    background-color: transparent;
+    padding-left: 60px;
+    padding-top: 60px;
+    border: 8px;
+    top: 35%;
+    right: 17.5%;
+
+    outline: #ffffff solid 20px ;
+    border-color: #ffffff;
+}
+
+#box5{
+    display: block;
+    position: absolute;
+    box-sizing: border-box;
+    flex-shrink: 0;
+    background-color: transparent;
+    padding-left: 240px;
+    padding-top: 240px;
+    border: 8px;
+    top: 29%;
+    right: 14.5%;
+
+    outline: #E82C4F solid 40px ;
+    border-color: #ffffff;
+}
+
+#box6{
+    display: block;
+    position: absolute;
+    box-sizing: border-box;
+    flex-shrink: 0;
+    background-color: transparent;
+    padding-left: 80px;
+    padding-top: 80px;
+    border: 8px;
+    top: 55%;
+    left: 1930px;
+
+    outline: #3256A1 solid 20px ;
+    border-color: #ffffff;
+}
+
+#ecllipe{
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    box-sizing: border-box;
+    flex-shrink: 0;
+    background-color: transparent;
+    top: 54%;
+    left: 2120px;
+}
+
+#user{
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    box-sizing: border-box;
+    flex-shrink: 0;
+    background-color: transparent;
+    top: 54%;
+    left: 8.5%;
+}
+#max{
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    box-sizing: border-box;
+    flex-shrink: 0;
+    background-color: transparent;
+    top: 52.5%;
+    left: 11%;
+}
+
+#clock{
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    box-sizing: border-box;
+    flex-shrink: 0;
+    background-color: transparent;
+    top: 54%;
+    left: 20%;
+}
+
+#min{
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    box-sizing: border-box;
+    flex-shrink: 0;
+    background-color: transparent;
+    top: 52.5%;
+    left: 23%;
+}
+
+#box7{
+    display: block;
+    position: absolute;
+    box-sizing: border-box;
+    flex-shrink: 0;
+    background-color: transparent;
+    padding-left: 558px;
+    padding-top: 800px;
+    border: 8px;
+    top: 39.5%;
+    right: 19.9%;
+
+    outline: rgba(255,255,255,0.2) solid 60px ;
+    border-color: #ffffff;
+}
+
+#box8{
+    display: block;
+    position: absolute;
+    box-sizing: border-box;
+    flex-shrink: 0;
+    background-color: transparent;
+    padding-left: 558px;
+    padding-top: 800px;
+    border: 8px;
+    bottom: 64.8%;
+    left: 82.5%;
+
+    outline: rgba(72, 89, 109, 0.5) solid 60px ;
+    border-color: #ffffff;
+}
+
+
 #R{
-    padding: 0%;
-    font-family: 'Bebas Neue'; 
-    font-size: medium;
-    text-align: center;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    box-sizing: border-box;
+    flex-shrink: 0;
+    background-color: transparent;
+    top: 152.42px;
+    left: 130px;
     
 }
 
